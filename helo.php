@@ -56,9 +56,13 @@ h1{
 <h1>BIODATA</h1> <hr>
 
     <pre>Nama             :Dede Amar Kamaludin<hr></pre>
-    <pre>Alamat           :Bogor<hr></pre>
+    <pre>Ttl              :Bogor 12 Juli 2001<hr></pre> 
+    <pre>Alamat           :Bogor,Jawa Barat<hr></pre>
+    <pre>Jenis Kelamin    :(L) Laki-Laki<hr></pre> 
     <pre>Universitas      :Universitas Alma ata<hr></pre>
     <pre>Jurusan          :Sistem Informasi<hr></pre> 
+    <pre>Hobby            :Coding,Desain,Art,Football<hr></pre> 
+    
     </div>
     
     <div class="kiri">
